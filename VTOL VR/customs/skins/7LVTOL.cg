@@ -1,13 +1,12 @@
-[]
-{
-#Cigarette....
+[]{
+#Cigarette..Cam..
 float Layer=9 
 float4*Layer Picture=camo1*.jpg*.png
 float cylinder=2.7
-float Length=3.2
+float Length=4.2
 float ZAXIS=1
-float2.ZAXIS Player_.Camo=(Length,shape/3)
-float3 color=(184,182,185)
+float2.ZAXIS Player_.Camo=(Length,cylinder/cylinder)
+float3 color=(222,200,215)
 float4 image1=.\Picture*(2770 2770)
 float4 skin=(float2 (Camo|*color|*((image1)/2)+image1:*(image1*(1>0<1))+image1))*2
 return skin
