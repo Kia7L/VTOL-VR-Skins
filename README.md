@@ -1,2 +1,3 @@
 # VTOL-VR-Skins
  AirCraftSkinsByK1BAKER7L
+Place In \VTOL VR\ GAME FOLDER...
